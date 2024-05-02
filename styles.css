@@ -1,0 +1,20 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: navy;
+    color: gray;
+    padding: 128px 16px;
+}
+.img {
+width: 200px;
+height: 200px;
+}
+
+.handcuffs{
+width: 200px; 
+height: 200px;
+}
+.yellow{
+width: 200px;
+height: 200px;
+}
